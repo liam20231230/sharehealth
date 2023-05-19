@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sharehealth",
+    "slug": "sharehealth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sharehealth"
+}
